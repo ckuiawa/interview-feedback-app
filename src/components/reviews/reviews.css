@@ -1,0 +1,38 @@
+
+.review-list {
+  padding: 10px;
+}
+
+.review {
+  margin: 30px;
+  color: gray;
+  border-bottom-style: solid;
+  border-bottom-width: thin;
+  border-bottom-color: grey;
+}
+
+.user-date {
+  display: block;
+  font-size:80%;
+  padding: 5px;
+  font-weight: 100;
+}
+
+.review-text {
+  display: block;
+  padding: 5px;
+
+}
+
+.rating {
+  padding: 5px;
+}
+
+.colored-stahs {
+  color: orange;
+
+}
+
+.clear-stahs {
+  color: black;
+}
